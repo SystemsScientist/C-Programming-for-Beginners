@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658662221 source:/home/snarkydata/c-programs/c-programming-for-beginners/Section-07-Control-Flow/NestedLoopsAndLoopControl/NestedLoopsAndLoopControl/main.c
+	<stdio.h>
+	<stdlib.h>
+
