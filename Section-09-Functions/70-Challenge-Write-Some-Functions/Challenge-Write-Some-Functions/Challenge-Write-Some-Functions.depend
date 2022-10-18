@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666117679 source:/home/snarkydata/c-programs/c-programming-for-beginners/Section-09-Functions/70-Challenge-Write-Some-Functions/Challenge-Write-Some-Functions/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
